@@ -8,7 +8,6 @@ import {
   Trophy, 
   BarChart3, 
   Users, 
-  GraduationCap, 
   Star,
   Check,
   ChevronDown,
