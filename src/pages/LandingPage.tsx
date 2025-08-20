@@ -265,7 +265,7 @@ const LandingPage = () => {
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
             {/* Freemium Plan */}
-            <div className="bg-dark-700 p-8 rounded-xl border border-dark-600">
+            <div className="bg-dark-800 p-8 rounded-xl border border-dark-700">
               <h3 className="text-2xl font-bold text-white mb-4">Freemium</h3>
               <p className="text-3xl font-bold text-primary-400 mb-6">
                 Free
